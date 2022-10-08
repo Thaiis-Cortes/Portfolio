@@ -4,7 +4,7 @@
     --green:#8400a2;
     --black:rgb(55, 0, 53);
     --light-color:rgb(74, 0, 87);
-    --bg-color:linear-gradient(rgba(148, 0, 240, 0.711), rgb(166, 105, 178));
+    --bg-color:linear-gradient(rgba(198, 137, 235, 0.711), rgb(166, 105, 178));
     --border:.1rem solid rgba(0,0,0,.2);
     --box-shadow:.4rem .4rem 1rem rgb(243, 174, 221);
              --:4rem -.4rem 1rem rgb(243, 174, 221);
