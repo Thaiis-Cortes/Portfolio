@@ -36,7 +36,7 @@ body{
 body.active{
     --black:#fff;
     --light-color:rgb(221, 221, 221);
-    --bg-color:linear-gradient(#17011b, rgb(61, 13, 70));
+    --bg-color:linear-gradient(#1c0020, rgb(29, 0, 35));
     --border:.1rem solid rgba(0,0,0,.4);
     --box-shadow:.4rem .4rem 1rem #111,
                 -.4rem -.4rem 1rem rgb(101, 10, 115);
@@ -418,12 +418,12 @@ section{
     color: var(--green);
 }
 input::placeholder{
-    color: rgb(68, 5, 48);
+    color: var(--light-color)
 
 }
 
 textarea::placeholder{
-    color: rgb(68, 5, 48);
+    color: var(--light-color)
 }
 
 h4{  font-size: 1.7rem;
