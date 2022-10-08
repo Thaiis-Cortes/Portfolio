@@ -6,10 +6,10 @@
     --light-color:rgb(74, 0, 87);
     --bg-color:linear-gradient(rgba(198, 137, 235, 0.711), rgb(166, 105, 178));
     --border:.1rem solid rgba(0,0,0,.2);
-    --box-shadow:.4rem .4rem 1rem rgb(243, 174, 221);
-             --:4rem -.4rem 1rem rgb(243, 174, 221);
-    --box-shadow-inset:.4rem .4rem 1rem rgb(237, 156, 222)  inset,
-                      -.4rem -.4rem 1rem rgb(237, 156, 222) inset;
+    --box-shadow:.4rem .4rem 1rem rgba(117, 4, 123, 0.724);
+             --:4rem -.4rem 1rem rgb(179, 100, 165) ;
+    --box-shadow-inset:.4rem .4rem 1rem rgb(179, 100, 165)  inset,
+                      -.4rem -.4rem 1rem rgb(95, 2, 78) inset;
 }
 
 *{
@@ -41,7 +41,7 @@ body.active{
     --box-shadow:.4rem .4rem 1rem #111,
                 -.4rem -.4rem 1rem rgb(101, 10, 115);
     --box-shadow-inset:.4rem .4rem 1rem rgb(91, 2, 87) inset,
-                      -.4rem -.4rem 1rem rgb(91, 2, 87)inset;
+                      -.4rem -.4rem 1rem rgb(179, 100, 165) inset;
                       
 }
 
