@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
 
 :root{
-    --green:#5f00b7;
+    --green:#6100fe;
     --black:rgb(55, 0, 53);
     --light-color:rgb(74, 0, 87);
     --bg-color:linear-gradient(rgba(148, 0, 240, 0.711), rgb(166, 105, 178));
@@ -36,12 +36,12 @@ body{
 body.active{
     --black:#fff;
     --light-color:rgb(221, 221, 221);
-    --bg-color:rgb(21, 0, 25);
-    --border:.1rem solid rgba(0,0,0,.4);
-    --box-shadow:.4rem .4rem 1rem #111,
-                -.4rem -.4rem 1rem #333;
-    --box-shadow-inset:.4rem .4rem 1rem #111 inset,
-                      -.4rem -.4rem 1rem #333 inset;
+    --bg-color:linear-gradient(#100014, rgb(51, 13, 58));
+    --border:.1rem solid rgba(227, 4, 209, 0.4);
+    --box-shadow:.4rem .4rem 1rem rgb(105, 12, 102),
+                -.4rem -.4rem 1rem rgb(64, 7, 70);
+    --box-shadow-inset:.4rem .4rem 1rem rgb(118, 0, 108) inset,
+                      -.4rem -.4rem 1rem rgb(70, 4, 83) inset;
                       
 }
 
